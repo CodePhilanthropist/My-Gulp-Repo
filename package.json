@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/CodePhilanthropist/My-Gulp-Repo#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-imagemin": "^7.1.0",
